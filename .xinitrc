@@ -17,5 +17,8 @@ xrandr --auto
 xsettingsd &
 /usr/lib/geoclue-2.0/demos/agent &
 redshift-gtk &
+flameshot &
+lxsession &
+xcompmgr &
 
 exec dwm >~/tmp/dwm.log 2>&1

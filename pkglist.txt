@@ -26,3 +26,6 @@ redshift
 python-gobject
 python-xdg
 libnotify
+flameshot
+xcompmgr
+lxsession
