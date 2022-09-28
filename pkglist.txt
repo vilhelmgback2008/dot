@@ -4,6 +4,7 @@ xorg-xrandr
 xorg-xset
 xorg-setxkbmap
 xorg-xrandr
+xorg-xsetroot
 pipewire
 pipewire-pulse
 pipewire-alsa
