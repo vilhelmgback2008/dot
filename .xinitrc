@@ -23,5 +23,6 @@ flameshot &
 lxsession &
 xcompmgr &
 ~/bin/dwmstat &
+numlockx &
 
 exec dwm >~/tmp/dwm.log 2>&1

@@ -30,3 +30,4 @@ libnotify
 flameshot
 xcompmgr
 lxsession
+numlockx
