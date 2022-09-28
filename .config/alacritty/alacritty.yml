@@ -1,0 +1,23 @@
+font:
+  normal:
+    family: Terminus (TTF)
+    style: Regular
+  bold:
+    family: Terminus (TTF)
+    style: Bold
+  italic:
+    family: Terminus (TTF)
+    style: Italic
+  bold_italic:
+    family: Terminus (TTF)
+    style: Bold Italic
+  
+  size: 14.0
+
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#FFFFFF'
+
+selection:
+  save_to_clipboard: true
