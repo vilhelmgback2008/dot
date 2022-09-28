@@ -31,3 +31,4 @@ flameshot
 xcompmgr
 lxsession
 numlockx
+hsetroot

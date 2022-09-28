@@ -16,6 +16,9 @@ xrandr --auto
 
 pkill -9 -f dwmstat
 
+xsetroot -cursor_name left_ptr
+hsetroot -solid "black"
+
 xsettingsd &
 /usr/lib/geoclue-2.0/demos/agent &
 redshift-gtk &
