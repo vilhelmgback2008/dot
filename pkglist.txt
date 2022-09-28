@@ -32,3 +32,5 @@ xcompmgr
 lxsession
 numlockx
 hsetroot
+man-db
+man-pages
