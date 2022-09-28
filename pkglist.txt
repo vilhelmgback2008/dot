@@ -22,3 +22,7 @@ dmenu
 autojump
 xsettingsd
 screen
+redshift
+python-gobject
+python-xdg
+libnotify
