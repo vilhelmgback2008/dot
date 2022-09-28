@@ -34,3 +34,4 @@ numlockx
 hsetroot
 man-db
 man-pages
+clipmenu

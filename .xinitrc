@@ -4,6 +4,8 @@ cd $HOME
 
 test ! -d ~/tmp && mkdir ~/tmp
 
+systemctl --user import-environment DISPLAY
+
 export _JAVA_AWT_WM_NONREPARENTING=1
 
 xset r rate 300 20
@@ -27,5 +29,6 @@ lxsession &
 xcompmgr &
 ~/bin/dwmstat &
 numlockx &
+clipmenud &
 
 exec dwm >~/tmp/dwm.log 2>&1
