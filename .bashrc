@@ -9,7 +9,7 @@ HISTFILESIZE=24000
 HISTFILE=$HOME/.bash_history
 shopt -s cmdhist histappend expand_aliases
 
-export TERM=linux
+export TERM=xterm-256color
 shopt -s checkwinsize
 
 export VISUAL=vim
